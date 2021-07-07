@@ -4,7 +4,9 @@ An application created using the MERN stack and allows users to search for books
 
 https://github.com/Noreldin-S/Google-Books-Search 
 
-https://googbooksearc.herokuapp.com/
+### Live Link to Deployed App
+
+[UserDirectory](https://googbooksearc.herokuapp.com/)
 
 ### Technologies Used
  - React JS
@@ -26,6 +28,12 @@ https://googbooksearc.herokuapp.com/
 
 5. If a user wants to remove a saved book from the list, they may click the `Delete` button to remove the book from the page. In the back end, this deletes the document from the Mongo database.
 
+
+## Visualization of App Interface
+
+![NightIn visualization](./client/public/GoogleBooks.png)
+
+
 ## Installation and Setup Instructions
 
 
@@ -44,3 +52,14 @@ To Visit App:
 `localhost:3000`  
 
 ---
+
+## Contribute
+
+Please submit [bugs and feature requests](https://github.com/Noreldin-S/Google-Books-Search/issues)
+
+
+
+### Author
+
+[Noreldin Saad](https://github.com/Noreldin-S/)
+
