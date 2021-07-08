@@ -6,7 +6,7 @@ https://github.com/Noreldin-S/Google-Books-Search
 
 ### Live Link to Deployed App
 
-[UserDirectory](https://googbooksearc.herokuapp.com/)
+[Google-Book-Search](https://googbooksearc.herokuapp.com/)
 
 ### Technologies Used
  - React JS
